@@ -1,0 +1,6 @@
+# Ignore local config with API keys
+config.js
+.vscode/
+# Node artifacts (if any)
+node_modules/
+.DS_Store
